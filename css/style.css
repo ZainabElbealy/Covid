@@ -14,4 +14,11 @@
 
 li{
 color: white;
+width: 204px;
 }
+
+
+/* @media screen and(max-width:700px) {
+   li{ width: 200px !important;
+   }
+} */
